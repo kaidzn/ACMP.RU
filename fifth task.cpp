@@ -42,11 +42,4 @@ int main()
        if(odd==even) cout<<"YES!";
        if(odd<even)  cout<<"YES!";
        if(odd>even)  cout <<"No!"; 
-      //   if(even>odd){
-      //     cout << "YES!";
-      //   }
-      //   else{
-      //     cout <<"NO!";
-      //   }
-      // }
 }
